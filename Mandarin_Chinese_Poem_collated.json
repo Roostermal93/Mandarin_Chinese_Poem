@@ -1,0 +1,42 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "7919277f-0908-4bf8-87d8-026a15e5b857",
+            "collectionId": "Mandarin_Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Mandarin_Chinese/7919277f-0908-4bf8-87d8-026a15e5b857_ma_Male.mp4"
+        },
+        {
+            "id": "b7c981b2-3e81-4e1e-99fe-bccf5c22211c",
+            "collectionId": "Mandarin_Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Mandarin_Chinese/b7c981b2-3e81-4e1e-99fe-bccf5c22211c_ma_Female.mp4"
+        },
+        {
+            "id": "64acedb5-8240-41ef-8ac0-c8a417054428",
+            "collectionId": "Mandarin_Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Mandarin_Chinese/64acedb5-8240-41ef-8ac0-c8a417054428_ma_Male.mp4"
+        },
+        {
+            "id": "c731b3c0-3c4e-4604-9650-08d6fc34abdb",
+            "collectionId": "Mandarin_Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Mandarin_Chinese/c731b3c0-3c4e-4604-9650-08d6fc34abdb_ma_Male.mp4"
+        },
+        {
+            "id": "746af263-c542-4f6f-aeae-c78fd08362fd",
+            "collectionId": "Mandarin_Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Mandarin_Chinese/746af263-c542-4f6f-aeae-c78fd08362fd_ma_Female.mp4"
+        }
+    ]
+}
